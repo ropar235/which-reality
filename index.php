@@ -3,7 +3,6 @@
   <title>Oh geez... What reality am I in?</title>
 </head>
 
-<!-- TODO: Comment Removed-->
   
 <body>
 <h1> Server Information</h1>
